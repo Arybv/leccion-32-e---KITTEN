@@ -8,12 +8,12 @@ body{
   display: flex;
   align-items: center;
 }
-.fondo01-1{
-  background-image: url(assets/img/dawn.png);
+.fondo02-1{
+  background-image: url(Landscape.jpg.png);
   position: relative;
 }
-.fondo01-2{
-  background-image: url(assets/img/kitten-medium.png);
+.fondo02-2{
+  background-image: url(assets/img/kitten-large.png);
   position: absolute;
   width: 45em;
   height: 27em;
